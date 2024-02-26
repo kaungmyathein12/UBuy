@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+main {
   background: #f0f0f0;
 }
